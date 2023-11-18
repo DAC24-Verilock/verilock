@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Rust
+/target
+
+# Idea
+.idea
+
+# VSCode
+.vscode
+
+.z3-trace
